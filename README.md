@@ -1,6 +1,14 @@
 # URL Shortener Web App
 
-A simple and lightweight URL shortener web application built with Python and Flask. This application allows users to convert long URLs into easily shareable short links, track visit counts, and manage their shortened URLs.
+<div align="center">
+  <a href="https://streamable.com/gju0dl">
+    <img src="https://img.shields.io/badge/Watch-Video_Preview-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Preview" />
+  </a>
+</div>
+
+## About The Project
+
+A fast, simple, and lightweight URL shortener web application built with Python and Flask. This project solves the problem of long, unwieldy URLs by allowing users to convert them into concise, easily shareable short links. Additionally, it provides built-in analytics to track visit counts for each link and a simple interface to manage your generated URLs.
 
 ## Features
 
